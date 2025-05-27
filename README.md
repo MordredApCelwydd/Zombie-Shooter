@@ -1,0 +1,1 @@
+This project is still very much in development, with the main focus on learning the mechanical side of unity game development. It utilizes multiple design patters, such as abstract factory, singleton and object pooling, as well as more robust class hierarchy with the focus on component-based approach and modularity
